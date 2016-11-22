@@ -1,4 +1,4 @@
-<project name="DatabaseDemo" basedir="." default="main">
+<project name="Hello" basedir="." default="main">
     <property name="dir.src"     value="."/>
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
